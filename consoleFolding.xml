@@ -1,0 +1,18 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="at java" />
+        <option value="at org" />
+        <option value="at pl" />
+        <option value="at eu" />
+        <option value="at io" />
+      </list>
+    </option>
+    <option name="addedNegative">
+      <list>
+        <option value="SEND_AGENT_KPI" />
+      </list>
+    </option>
+  </component>
+</application>
