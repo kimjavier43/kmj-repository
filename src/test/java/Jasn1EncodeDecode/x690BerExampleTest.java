@@ -1,6 +1,7 @@
-package hello;
+package Jasn1EncodeDecode;
 
 import generated.x690_ber_example.*;
+import hello.TestGroups;
 import org.junit.Assert;
 import org.openmuc.jasn1.ber.ReverseByteArrayOutputStream;
 import org.openmuc.jasn1.ber.types.string.BerVisibleString;
