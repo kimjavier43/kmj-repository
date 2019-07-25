@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="IdemiaPLITest.java" type="PLAIN_TEXT" />
       <mapping ext="asn" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
