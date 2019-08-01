@@ -1,0 +1,6 @@
+<application>
+  <component name="GradleSystemRunningSettings">
+    <option name="preferredTestRunner" value="CHOOSE_PER_TEST" />
+    <option name="useGradleAwareMake" value="true" />
+  </component>
+</application>
