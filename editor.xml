@@ -4,4 +4,7 @@
     <option name="FONT_FAMILY" value="CamingoCode" />
     <option name="FONT_SCALE" value="1.25" />
   </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
 </application>
