@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="IdemiaPLITest.java" type="PLAIN_TEXT" />
       <mapping ext="asn" type="PLAIN_TEXT" />
+      <mapping ext="uper" type="PLAIN_TEXT" />
       <mapping ext="ber" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
